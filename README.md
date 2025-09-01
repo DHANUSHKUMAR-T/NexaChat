@@ -1,6 +1,6 @@
 🚀 Excited to introduce NexaChat — my latest advanced conversational AI assistant project!
 
-App link: https://lnkd.in/gwRcRnZd
+App link: https://tdhanushkumar-nexachat.static.hf.space/
 
 {To get the best experience on your phone, use the “Add to Home” option from your browser’s menu to install NexaChat like an app!}
 
@@ -12,7 +12,7 @@ Code formatting with syntax highlighting
 Voice input & output capabilities
 Responsive design optimized for all devices
 
-App link: https://lnkd.in/gwRcRnZd
+App link: https://tdhanushkumar-nexachat.static.hf.space/
 
 Big thanks to everyone supporting my AI journey! 🙌 
 Looking forward to feedback and future enhancements.(👇 FEEDBACK)
